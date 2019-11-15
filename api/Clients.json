@@ -331,7 +331,12 @@
                 "version_added": "4.0"
               },
               {
-                "notes": "URLs may open inside an existing browsing context provided by a standalone web app",
+                "version_added": "4.0"
+              },
+              {
+                "version_added": "4.0"
+              },
+              {
                 "version_added": "5.0"
               }
             ],
