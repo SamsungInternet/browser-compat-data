@@ -1023,7 +1023,7 @@
               {
                 "alternative_name": "charset",
                 "version_added": true,
-                "notes": "<code>charset</code> alias was made read-only in Samsung Internet 45."
+                "notes": "<code>charset</code> alias was made read-only in Samsung Internet 5.0."
               },
               {
                 "alternative_name": "inputEncoding",
@@ -5468,41 +5468,9 @@
                 ]
               }
             ],
-            "samsunginternet_android": [
-              {
-                "version_added": "13.0",
-                "flags": [
-                  {
-                    "type": "preference",
-                    "name": "#enable-experimental-web-platform-features"
-                  }
-                ]
-              },
-              {
-                "version_added": "9.0",
-                "version_removed": "13.0",
-                "partial_implementation": true,
-                "notes": "Implements an older version of the specification and not supported on <code>ShadowRoot</code>, see <a href='https://crbug.com/828585'>Chromium bug 828585</a>.",
-                "flags": [
-                  {
-                    "type": "preference",
-                    "name": "#enable-experimental-web-platform-features"
-                  }
-                ]
-              },
-              {
-                "version_added": "8.0",
-                "version_removed": "9.0",
-                "partial_implementation": true,
-                "notes": "Implements an older version of the specification, does not automatically flush pending style changes and not supported on <code>ShadowRoot</code>, see Chromium bugs <a href='https://crbug.com/828424'>828424</a> and <a href='https://crbug.com/828585'>828585</a>.",
-                "flags": [
-                  {
-                    "type": "preference",
-                    "name": "#enable-experimental-web-platform-features"
-                  }
-                ]
-              }
-            ],
+            "samsunginternet_android": {
+              "version_added": false
+            },
             "webview_android": {
               "version_added": false,
               "notes": "Currently Chrome Canary only"
@@ -10193,8 +10161,7 @@
               "version_added": "13.4"
             },
             "samsunginternet_android": {
-              "version_added": false,
-              "notes": "Currently Samsung Internet Canary only"
+              "version_added": false
             },
             "webview_android": {
               "version_added": false

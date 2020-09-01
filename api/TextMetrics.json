@@ -395,13 +395,7 @@
               "version_added": true
             },
             "samsunginternet_android": {
-              "version_added": true,
-              "flags": [
-                {
-                  "type": "preference",
-                  "name": "Experimental Web Platform Features"
-                }
-              ]
+              "version_added": false
             },
             "webview_android": {
               "version_added": false
@@ -474,13 +468,7 @@
               "version_added": true
             },
             "samsunginternet_android": {
-              "version_added": true,
-              "flags": [
-                {
-                  "type": "preference",
-                  "name": "Experimental Web Platform Features"
-                }
-              ]
+              "version_added": false
             },
             "webview_android": {
               "version_added": false
@@ -553,13 +541,7 @@
               "version_added": true
             },
             "samsunginternet_android": {
-              "version_added": true,
-              "flags": [
-                {
-                  "type": "preference",
-                  "name": "Experimental Web Platform Features"
-                }
-              ]
+              "version_added": false
             },
             "webview_android": {
               "version_added": false
@@ -632,13 +614,7 @@
               "version_added": true
             },
             "samsunginternet_android": {
-              "version_added": true,
-              "flags": [
-                {
-                  "type": "preference",
-                  "name": "Experimental Web Platform Features"
-                }
-              ]
+              "version_added": false
             },
             "webview_android": {
               "version_added": false
@@ -711,13 +687,7 @@
               "version_added": false
             },
             "samsunginternet_android": {
-              "version_added": true,
-              "flags": [
-                {
-                  "type": "preference",
-                  "name": "Experimental Web Platform Features"
-                }
-              ]
+              "version_added": false
             },
             "webview_android": {
               "version_added": false
@@ -790,13 +760,7 @@
               "version_added": true
             },
             "samsunginternet_android": {
-              "version_added": true,
-              "flags": [
-                {
-                  "type": "preference",
-                  "name": "Experimental Web Platform Features"
-                }
-              ]
+              "version_added": false
             },
             "webview_android": {
               "version_added": false
@@ -869,13 +833,7 @@
               "version_added": true
             },
             "samsunginternet_android": {
-              "version_added": true,
-              "flags": [
-                {
-                  "type": "preference",
-                  "name": "Experimental Web Platform Features"
-                }
-              ]
+              "version_added": false
             },
             "webview_android": {
               "version_added": false

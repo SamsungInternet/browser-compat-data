@@ -56,14 +56,7 @@
             "version_added": null
           },
           "samsunginternet_android": {
-            "version_added": "7.0",
-            "flags": [
-              {
-                "type": "preference",
-                "name": "#service-worker-payment-apps",
-                "value_to_set": "Enabled"
-              }
-            ]
+            "version_added": false
           },
           "webview_android": {
             "version_added": false
@@ -131,14 +124,7 @@
               "version_added": null
             },
             "samsunginternet_android": {
-              "version_added": "7.0",
-              "flags": [
-                {
-                  "type": "preference",
-                  "name": "#service-worker-payment-apps",
-                  "value_to_set": "Enabled"
-                }
-              ]
+              "version_added": false
             },
             "webview_android": {
               "version_added": false
@@ -208,14 +194,7 @@
               "version_added": null
             },
             "samsunginternet_android": {
-              "version_added": "9.0",
-              "flags": [
-                {
-                  "type": "preference",
-                  "name": "web-payments",
-                  "value_to_set": "Enabled"
-                }
-              ]
+              "version_added": false
             },
             "webview_android": {
               "version_added": false
@@ -284,14 +263,7 @@
               "version_added": null
             },
             "samsunginternet_android": {
-              "version_added": "8.0",
-              "flags": [
-                {
-                  "type": "preference",
-                  "name": "#service-worker-payment-apps",
-                  "value_to_set": "Enabled"
-                }
-              ]
+              "version_added": false
             },
             "webview_android": {
               "version_added": false
