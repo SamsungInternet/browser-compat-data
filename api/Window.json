@@ -4557,7 +4557,7 @@
               "version_added": null
             },
             "samsunginternet_android": {
-              "version_added": false
+              "version_added": "7.0"
             },
             "webview_android": {
               "version_added": false
@@ -5333,7 +5333,10 @@
             },
             "samsunginternet_android": {
               "version_added": true,
-              "notes": "Supported on Samsung Internet for GearVR."
+              "notes": [
+                "Chrome for Android 56 supports only Google Daydream View.",
+                "Chrome for Android 57 adds support for Google Cardboard."
+              ]
             },
             "webview_android": {
               "version_added": false
@@ -6156,7 +6159,7 @@
               "version_added": true
             },
             "samsunginternet_android": {
-              "version_added": true
+              "version_added": "1.0"
             },
             "webview_android": {
               "version_added": "≤37"
@@ -6205,7 +6208,7 @@
               "version_added": true
             },
             "samsunginternet_android": {
-              "version_added": true
+              "version_added": "1.0"
             },
             "webview_android": {
               "version_added": "≤37"
@@ -10177,7 +10180,10 @@
             },
             "samsunginternet_android": {
               "version_added": true,
-              "notes": "Supported on Samsung Internet for GearVR."
+              "notes": [
+                "Chrome for Android 56 supports only Google Daydream View.",
+                "Chrome for Android 57 adds support for Google Cardboard."
+              ]
             },
             "webview_android": {
               "version_added": false

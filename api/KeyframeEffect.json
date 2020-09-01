@@ -339,7 +339,13 @@
               "version_added": false
             },
             "samsunginternet_android": {
-              "version_added": false
+              "version_added": false,
+              "flags": [
+                {
+                  "type": "preference",
+                  "name": "Experimental Web Platform Features"
+                }
+              ]
             },
             "webview_android": {
               "version_added": false

@@ -119,9 +119,30 @@
           "safari_ios": {
             "version_added": null
           },
-          "samsunginternet_android": {
-            "version_added": false
-          },
+          "samsunginternet_android": [
+            {
+              "version_added": "10.0",
+              "flags": [
+                {
+                  "type": "preference",
+                  "name": "#web-payments",
+                  "value_to_set": "Enabled"
+                }
+              ]
+            },
+            {
+              "version_added": "10.0",
+              "version_removed": "10.0",
+              "alternative_name": "PayerErrorFields",
+              "flags": [
+                {
+                  "type": "preference",
+                  "name": "#web-payments",
+                  "value_to_set": "Enabled"
+                }
+              ]
+            }
+          ],
           "webview_android": {
             "version_added": false
           }
@@ -251,9 +272,30 @@
             "safari_ios": {
               "version_added": null
             },
-            "samsunginternet_android": {
-              "version_added": false
-            },
+            "samsunginternet_android": [
+              {
+                "version_added": "10.0",
+                "flags": [
+                  {
+                    "type": "preference",
+                    "name": "#web-payments",
+                    "value_to_set": "Enabled"
+                  }
+                ]
+              },
+              {
+                "version_added": "10.0",
+                "version_removed": "10.0",
+                "alternative_name": "payerEmailError",
+                "flags": [
+                  {
+                    "type": "preference",
+                    "name": "#web-payments",
+                    "value_to_set": "Enabled"
+                  }
+                ]
+              }
+            ],
             "webview_android": {
               "version_added": false
             }
@@ -384,9 +426,30 @@
             "safari_ios": {
               "version_added": null
             },
-            "samsunginternet_android": {
-              "version_added": false
-            },
+            "samsunginternet_android": [
+              {
+                "version_added": "10.0",
+                "flags": [
+                  {
+                    "type": "preference",
+                    "name": "#web-payments",
+                    "value_to_set": "Enabled"
+                  }
+                ]
+              },
+              {
+                "version_added": "10.0",
+                "version_removed": "10.0",
+                "alternative_name": "payerNameError",
+                "flags": [
+                  {
+                    "type": "preference",
+                    "name": "#web-payments",
+                    "value_to_set": "Enabled"
+                  }
+                ]
+              }
+            ],
             "webview_android": {
               "version_added": false
             }
@@ -517,9 +580,30 @@
             "safari_ios": {
               "version_added": null
             },
-            "samsunginternet_android": {
-              "version_added": false
-            },
+            "samsunginternet_android": [
+              {
+                "version_added": "10.0",
+                "flags": [
+                  {
+                    "type": "preference",
+                    "name": "#web-payments",
+                    "value_to_set": "Enabled"
+                  }
+                ]
+              },
+              {
+                "version_added": "10.0",
+                "version_removed": "10.0",
+                "alternative_name": "payerPhoneError",
+                "flags": [
+                  {
+                    "type": "preference",
+                    "name": "#web-payments",
+                    "value_to_set": "Enabled"
+                  }
+                ]
+              }
+            ],
             "webview_android": {
               "version_added": false
             }
