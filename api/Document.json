@@ -5470,7 +5470,7 @@
             ],
             "samsunginternet_android": [
               {
-                "version_added": false,
+                "version_added": "13.0",
                 "flags": [
                   {
                     "type": "preference",
@@ -5480,7 +5480,7 @@
               },
               {
                 "version_added": "9.0",
-                "version_removed": false,
+                "version_removed": "13.0",
                 "partial_implementation": true,
                 "notes": "Implements an older version of the specification and not supported on <code>ShadowRoot</code>, see <a href='https://crbug.com/828585'>Chromium bug 828585</a>.",
                 "flags": [

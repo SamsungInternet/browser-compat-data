@@ -1083,7 +1083,7 @@
                 "version_added": false
               },
               "samsunginternet_android": {
-                "version_added": false,
+                "version_added": "13.0",
                 "partial_implementation": true,
                 "notes": "A valid animation object is returned but the targeted pseudoelement is not visually animated.",
                 "flags": [
