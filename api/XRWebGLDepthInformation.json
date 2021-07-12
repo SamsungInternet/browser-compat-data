@@ -1,31 +1,29 @@
 {
   "api": {
-    "UserDataHandler": {
+    "XRWebGLDepthInformation": {
       "__compat": {
-        "mdn_url": "https://developer.mozilla.org/docs/Web/API/UserDataHandler",
+        "spec_url": "https://immersive-web.github.io/depth-sensing/#xrwebgldepthinformation",
         "support": {
           "chrome": {
-            "version_added": false
+            "version_added": "90"
           },
           "chrome_android": {
-            "version_added": false
+            "version_added": "90"
           },
           "edge": {
-            "version_added": false
+            "version_added": "90"
           },
           "firefox": {
-            "version_added": "4",
-            "version_removed": "22"
+            "version_added": false
           },
           "firefox_android": {
-            "version_added": "4",
-            "version_removed": "22"
+            "version_added": false
           },
           "ie": {
             "version_added": false
           },
           "opera": {
-            "version_added": false
+            "version_added": "76"
           },
           "opera_android": {
             "version_added": false
@@ -44,37 +42,35 @@
           }
         },
         "status": {
-          "experimental": false,
-          "standard_track": false,
-          "deprecated": true
+          "experimental": true,
+          "standard_track": true,
+          "deprecated": false
         }
       },
-      "handle": {
+      "texture": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/UserDataHandler/handle",
+          "spec_url": "https://immersive-web.github.io/depth-sensing/#dom-xrwebgldepthinformation-texture",
           "support": {
             "chrome": {
-              "version_added": false
+              "version_added": "90"
             },
             "chrome_android": {
-              "version_added": false
+              "version_added": "90"
             },
             "edge": {
-              "version_added": false
+              "version_added": "90"
             },
             "firefox": {
-              "version_added": "4",
-              "version_removed": "22"
+              "version_added": false
             },
             "firefox_android": {
-              "version_added": "4",
-              "version_removed": "22"
+              "version_added": false
             },
             "ie": {
               "version_added": false
             },
             "opera": {
-              "version_added": false
+              "version_added": "76"
             },
             "opera_android": {
               "version_added": false
@@ -93,9 +89,9 @@
             }
           },
           "status": {
-            "experimental": false,
-            "standard_track": false,
-            "deprecated": true
+            "experimental": true,
+            "standard_track": true,
+            "deprecated": false
           }
         }
       }
